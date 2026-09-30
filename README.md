@@ -4,7 +4,6 @@
 
 Découvrir MongoDB avec un dataset e-commerce, pratiquer le CRUD, utiliser les opérateurs de recherche, réaliser des agrégations et créer un index.
 
-Durée de la démonstration : **20 minutes en binôme**.
 
 ## Téléchargements officiels
 
@@ -82,9 +81,7 @@ Si une collection existe déjà, ne pas répéter sa commande `createCollection`
 
 Les cellules d'import commencent par vider les collections avant de réinsérer le dataset. Cela permet de relancer le notebook sans erreur de `_id` dupliqué.
 
-## Partie 1 — premier membre du binôme
 
-Durée : **10 minutes**.
 
 - Installation et connexion.
 - Création de la base et des collections dans mongosh.
@@ -97,9 +94,7 @@ Durée : **10 minutes**.
 
 Dans Python, les mêmes méthodes utilisent des underscores : `insert_one()`, `find_one()`, `update_many()`, etc.
 
-## Partie 2 — deuxième membre du binôme
 
-Durée : **10 minutes**.
 
 - `$match` pour filtrer.
 - `$group` et `$sum` pour calculer.
