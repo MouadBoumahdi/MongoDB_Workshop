@@ -1,0 +1,8 @@
+[
+  { "_id": "C001", "nom": "Amina", "ville": "Casablanca", "email": "amina@example.test", "telephone": "0600000001" },
+  { "_id": "C002", "nom": "Youssef", "ville": "Rabat", "email": "youssef@example.test" },
+  { "_id": "C003", "nom": "Sara", "ville": "Marrakech", "email": "sara@example.test", "points_fidelite": 120 },
+  { "_id": "C004", "nom": "Mehdi", "ville": "Tanger", "email": "mehdi@example.test" },
+  { "_id": "C005", "nom": "Lina", "ville": "Fès", "email": "lina@example.test", "telephone": "0600000005" },
+  { "_id": "C006", "nom": "Omar", "ville": "Agadir", "email": "omar@example.test", "points_fidelite": 45 }
+]

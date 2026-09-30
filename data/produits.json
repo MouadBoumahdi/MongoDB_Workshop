@@ -1,0 +1,10 @@
+[
+  { "_id": "P001", "nom": "Casque audio", "categorie": "Électronique", "prix": 300, "stock": 25, "garantie_mois": 24 },
+  { "_id": "P002", "nom": "Souris sans fil", "categorie": "Électronique", "prix": 150, "stock": 40 },
+  { "_id": "P003", "nom": "Clavier mécanique", "categorie": "Électronique", "prix": 250, "stock": 20, "garantie_mois": 12 },
+  { "_id": "P004", "nom": "Carnet A5", "categorie": "Papeterie", "prix": 40, "stock": 100 },
+  { "_id": "P005", "nom": "Stylo", "categorie": "Papeterie", "prix": 20, "stock": 150 },
+  { "_id": "P006", "nom": "Sac à dos", "categorie": "Mode", "prix": 200, "stock": 30, "couleurs": ["noir", "bleu"] },
+  { "_id": "P007", "nom": "T-shirt", "categorie": "Mode", "prix": 120, "stock": 50, "tailles": ["S", "M", "L"] },
+  { "_id": "P008", "nom": "Lampe de bureau", "categorie": "Maison", "prix": 180, "stock": 15 }
+]
